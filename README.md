@@ -5,6 +5,7 @@ steps:
 3. compile & run main.cpp
 4. change main.cpp where it says "Change this"
 5. Move the license file THEN save the generated file and place it in the root folder of IDA (where ida64.exe is)
+
 **AND FINALLY, RUN IDA PRO!**
 Now you can use IDA Pro 9.0 sp1 **with a license**!
 
